@@ -1,4 +1,11 @@
 class Student {
+    var id : Int = 5
+    var nama : String = "Joko Tarbiah"
+    var tglLahir : String = "10 Agustus 2019"
+
+
+
+
     // Impelementasikan properties dan fungsi sesuai spesifikasi dibawah
     // Dan buatkan test pada setiap fungsi yang memastikan bahwa fungsi berjalan baik.
 

@@ -12,7 +12,13 @@ No 2.
 Unit test dan integration test merupakan test yang dilakukan pada tahap implementasi.
 berikan pendapat kalian jika dua test ini tidak dilakukan beserta dampak yang akan terjadi pada perangkat lunak
 ::
-AKU SUDAH MENJAWAB NOMOR 2
+Menurut dari website https://www.linkedin.com/pulse/pentingnya-unit-testing-dalam-software-development-hello-bigio/?originalSubdomain=id
+Menyatakan bahwa kalau unit test itu memisahkan program menjadi bagian bagian individu agar bekerja dengan benar, dan disana juga menyatakan
+bahwa unit test itu memiliki keuntungan salah satunya adalah mengurangi biaya perbaikan bug.
+Jika unit test tidak dilakukan maka akan terjadi bug dan hal itu akan memakan biaya dan waktu yang lebih untuk memperbaiki.
+Tidak hanya dalam biaya, waktu juga menjadi bagian yang menjadi dampak apabila unit test tidak dilakukan, bahkan masih banyak lagi.
+integration
+
 
 No 3.
 Berikan pendapat kalian tentang pekerjaan QA Engineer sedangkan disisi lain Software Engineer
